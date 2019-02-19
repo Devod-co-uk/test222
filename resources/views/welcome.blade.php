@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Alec2 the best
+                    Laravel Alec2 mwlocal
                 </div>
 
                 <div class="links">
