@@ -1,4 +1,3 @@
-@extends('layout')
 
 
 <h1>A website!</h1>
