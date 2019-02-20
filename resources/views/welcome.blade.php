@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('content')
-<h1>A {{ $foo }} website!</h1>
+<h1>A website!</h1>
 
 <ul>
     @foreach ($tasks as $task)
