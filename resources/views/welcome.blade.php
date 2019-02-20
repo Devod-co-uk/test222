@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('content')
+
 <h1>A website!</h1>
 
 <ul>
@@ -9,4 +9,3 @@
     @endforeach
 </ul>
 
-@endsection
